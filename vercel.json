@@ -1,0 +1,9 @@
+{
+  "buildCommand": "next build --webpack",
+  "devCommand": "next dev --webpack",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "git": {
+    "deploymentEnabled": false
+  }
+}

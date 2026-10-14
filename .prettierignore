@@ -1,0 +1,6 @@
+**/*.mdx
+.next/
+node_modules/
+.vscode/
+package-lock.json
+next-env.d.ts
